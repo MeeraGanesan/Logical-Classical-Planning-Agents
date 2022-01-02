@@ -2,7 +2,7 @@
 
 Note: Code is kept private. Attributed to UC Berkeley (http://ai.berkeley.edu)
 
-This project implements 2 frameworks:
+This project implements 2 frameworks for Pacman AI:
 1. Pacman agent logically plans its way to goal
 
 Given Pacman's position represented as (x,y), a time t, and positions of walls, a successor state axiom is returned for Pacman's position being (x,y) at time t.    This is the conjunction of Pacman being in an adjacent square at time t-1 and Pacman moving to (x,y) at time t-1. At each time step, expressions that represent the Pacman game logic are created. A model that satisfies the logical expression is then found, and this represents the sequence of actions that take Pacman to the goal state.
