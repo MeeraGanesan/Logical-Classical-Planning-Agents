@@ -1,6 +1,6 @@
 # Logical-Classical-Planning-Agents
 
-Note: Code is kept private. Attributed to UC Berkeley (http://ai.berkeley.edu)
+Note: Code is kept private, can show on a need-to-know basis. Attributed to UC Berkeley (http://ai.berkeley.edu)
 
 This project implements 2 frameworks for Pacman AI:
 1. Pacman agent logically plans its way to goal
